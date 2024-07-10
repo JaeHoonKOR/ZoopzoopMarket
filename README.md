@@ -19,6 +19,9 @@ https://zoopzoop-market.vercel.app/
 ## 🖥️ 서비스 화면
 
 <캡쳐화면>
+![image](https://github.com/JaeHoonKOR/ZoopzoopMarket/assets/91282032/65390852-9e55-4dfa-8b8a-a83bc35c0d38)
+
+![image](https://github.com/JaeHoonKOR/ZoopzoopMarket/assets/91282032/5bd867cd-59e4-4b80-b34c-202fb28494fd)
 
 <br>
 
